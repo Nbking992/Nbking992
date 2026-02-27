@@ -1,16 +1,40 @@
-## Hi there 👋
+## 🧠 Sobre mí
 
-<!--
-**Nbking992/Nbking992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de ciberseguridad
+🔐 Apasionado por el hacking ético y los CTFs
+🚀 En constante aprendizaje
 
-Here are some ideas to get you started:
+Actualmente estoy desarrollando habilidades en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐧 Linux y scripting
+* 🌐 Redes
+* 🔍 Análisis y resolución de retos (CTFs)
+* 🔐 Fundamentos de seguridad informática
+
+---
+
+## 🚀 Proyectos destacados
+
+* 🔓 **OverTheWire (Bandit)**
+  → Resolución de retos y writeups
+  👉 https://github.com/Nbking992/practice-over-the-wire
+
+---
+
+## 📈 Actualmente
+
+* 🟢 Resolviendo OverTheWire (Bandit)
+* 🧪 Practicando scripting y automatización
+* 🎯 Próximo objetivo: más CTFs
+
+## 🛠️ Tecnologías y herramientas
+
+```bash
+Bash
+Linux
+Git & GitHub
+VFP
+```
+
+
+
