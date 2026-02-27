@@ -1,8 +1,8 @@
 ## 🧠 Sobre mí
 
-💻 Estudiante de ciberseguridad
-🔐 Apasionado por el hacking ético y los CTFs
-🚀 En constante aprendizaje
+* 💻 Estudiante de ciberseguridad
+* 🔐 Apasionado por el hacking ético y los CTFs
+* 🚀 En constante aprendizaje
 
 Actualmente estoy desarrollando habilidades en:
 
