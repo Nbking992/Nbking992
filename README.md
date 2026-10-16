@@ -21,7 +21,7 @@ Actualmente estoy desarrollando habilidades en:
 
 * 🔓 **Curriculum Vitae**
   → CV y Portfolio
-  👉 nbking992.github.io/CV_Portfolio/
+  👉 https://nbking992.github.io/CV_Portfolio/
 
 ---
 
