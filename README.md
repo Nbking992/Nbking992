@@ -19,6 +19,10 @@ Actualmente estoy desarrollando habilidades en:
   → Resolución de retos y writeups
   👉 https://github.com/Nbking992/practice-over-the-wire
 
+* 🔓 **Curriculum Vitae**
+  → CV y Portfolio
+  👉 nbking992.github.io/CV_Portfolio/
+
 ---
 
 ## 📈 Actualmente
